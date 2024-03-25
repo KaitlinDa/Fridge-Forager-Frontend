@@ -1,5 +1,4 @@
 # Fridge-Forager
-301-final-project
 
 ## User Stories 
 
